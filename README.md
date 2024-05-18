@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a **civil engineer** migrating to development back-end, currently learning to code in **Java** by myself.
+
 <!--
 **GeciaraBoava/GeciaraBoava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
