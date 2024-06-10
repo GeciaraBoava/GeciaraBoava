@@ -4,7 +4,7 @@
 
 
 ## Who am I?
-I'm a woman who love challenges. I live in Curitiba and I'm driven by curiosity and desire to learn. 
+I'm a woman who love challenges and solutions. I live in Curitiba and I'm driven by curiosity and desire to learn. 
 
 <img src="https://github.com/GeciaraBoava/GeciaraBoava/assets/169086081/91647ca7-a5f3-4c0b-a3f0-b670aade2cf1" width="600px"/>
 
