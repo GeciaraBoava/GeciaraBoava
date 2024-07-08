@@ -13,6 +13,14 @@ I have been learning in:
 - One Oracle Next Education - from front-end to back-en with html, CSS, React, Java e Spring Framework
 - Course Java Completo by Nelio Alves on Udemy - Java, OOP, UML, JDBC, JavaFX, Spring Boot, JPA, Hbernate, MySQL, MongoDB...
 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+
+
 
 
 
