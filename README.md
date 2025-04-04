@@ -37,9 +37,6 @@ Projeto autoral desenvolvido para aplicar os conhecimentos adquiridos durante me
 
 ---
 
-> “A melhor forma de prever o futuro é criá-lo.” — Peter Drucker
-
-
 ## 🧠 Tecnologias & Ferramentas
 
 ### 🔙 Backend
